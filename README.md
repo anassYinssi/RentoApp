@@ -16,9 +16,20 @@ This project was developed as part of the Final Year Project for the completion 
 ## Frontend
 * **Flutter**: A cross-platform framework for building mobile applications on Android and iOS with a single codebase.
 * **Dart**: The programming language used to build the Flutter app.
+
+
+<div style="text-align: center;">
+   <img src="Screens/flutter-fire.png" alt="flutter-fire" width="300" />
+</div>
+
 ## Backend and Database
 * **Firebase Authentication**: Handles user authentication securely.
 * **Firebase Firestore**: A NoSQL cloud database used to store property listings, user data, and interactions.
+
+<div style="text-align: center;">
+ <img src="Screens/auth-firestore.png" alt="auth-firestore" width="300" />
+</div>
+
 ## Development Tools
 * **Visual Studio Code**: The primary development environment.
 * **StarUML**: Used for designing the UML diagrams and modeling the application structure.
