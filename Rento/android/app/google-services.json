@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40839847200",
+    "project_id": "rento-87f0f",
+    "storage_bucket": "rento-87f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40839847200:android:95759d9424ab55333dcb45",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40839847200-4h6qn9mq4rb451t6j11h4abcut9c8384.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbX6OKBUIWYbqCkImdO9uIimhj_Hy9pK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40839847200-4h6qn9mq4rb451t6j11h4abcut9c8384.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
